@@ -12,7 +12,7 @@ npm install
 npm run dev
 ```
 
-This project was initialized with Vue.js and Webpack. The CSS and templating was handled mostly by Vuetify, https://vuetifyjs.com/en/.
+This project, https://liujeff.bitbucket.io/, was initialized with Vue.js and Webpack. The CSS and templating was handled mostly by Vuetify, https://vuetifyjs.com/en/. WARNING: reloading on /map will lead to a 404 error due to 'history' mode of the router and bitbucket.
 
 **index.html**
 Vue.js is injected to this page. Also contains all external CSS for Mapbox and icons.
